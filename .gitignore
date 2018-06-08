@@ -1,0 +1,8 @@
+/checkpoints/*
+/data_all/*
+/data_all_tfrecord/*
+/data_per_class/*
+/eval_logs/*
+/raw_data/*
+/train_logs/*
+/slim/*
